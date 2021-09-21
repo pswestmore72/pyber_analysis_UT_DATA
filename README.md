@@ -31,7 +31,7 @@ Analyzing the above data and visulizations, we can clearly see a couple differen
    - The number of rides in Urban cities was nearly 3x more than that of Suburban and 13x more than Rural cities
    - The number of drivers within Urban cities was more than 4x that of  Suburban and 30x more than Rural cities
 Though the number of drivers and rides within Urban cities so massively out performed those within Rural cities, an interesting trend is seen when analyzing the Average Fare of these rides and the Average Fare per driver within these city types.
-   - Rural rides cost on  average 1.4x more than Urban rides, and 1.1x more than Suburban rides. **This leads to a signifcant increase in average fare per a driver an expect to receive within a Rural city, over that of both Suburban and Urban cities.**
+   - Rural rides cost on  average 1.4x more than Urban rides, and 1.1x more than Suburban rides. **This leads to a signifcant increase in average fare that a driver an expect to receive within a Rural city, over that of both Suburban and Urban cities.**
 
 When fare amounts (summed by week) are plotted over time we can see:
    - Fares in all city types are expected to increase during the weekend of President's Day.
